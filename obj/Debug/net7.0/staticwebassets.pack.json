@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lucas\\Documents\\GitHub\\tds\\tds_2023_01-main\\Aula03\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Aula03.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Aula03.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas\\Documents\\GitHub\\tds\\tds_2023_01-main\\Aula03\\wwwroot\\.DS_Store",
+      "PackagePath": "staticwebassets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\lucas\\Documents\\GitHub\\tds\\tds_2023_01-main\\Aula03\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\lucas\\Documents\\GitHub\\tds\\tds_2023_01-main\\Aula03\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Aula03.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Aula03.props",
+      "PackagePath": "build\\Aula03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Aula03.props",
+      "PackagePath": "buildMultiTargeting\\Aula03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Aula03.props",
+      "PackagePath": "buildTransitive\\Aula03.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
